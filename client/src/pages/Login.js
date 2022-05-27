@@ -19,7 +19,7 @@ function Login() {
   return (
     <div className="login">
       <Row justify="center" className="flex align-items-center">
-        <Col lg={5}><h1 className="heading1" data-aos='slide-left'>Shey</h1></Col>
+        <Col lg={5}><h1 className="heading1" data-aos='slide-left'>JUC</h1></Col>
         <Col lg={10} sm={24} className="bs p-5 login-form">
           <h3>Login</h3>
           <hr />
